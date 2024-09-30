@@ -1,4 +1,4 @@
-# targetsistemas_interview
+# Respostas da Gupy
 
 # Pergunta 1:
 
@@ -198,7 +198,7 @@ JOIN Estados e ON c.estado = e.id_estado
 WHERE e.uf = 'SP';
 ```
 
-Pergunta 5:
+# Pergunta 5:
 
 No caso dos dois veículos, carro e caminhão, eles estão se movendo em direções opostas numa estrada de 125 km. O carro está viajando a 90 km/h e o caminhão a 80 km/h. Como o carro tem que parar nos pedágios (o que leva 15 minutos extras no total), mesmo sendo mais rápido, o caminhão estará mais próximo de Ribeirão Preto quando se cruzarem.
 
